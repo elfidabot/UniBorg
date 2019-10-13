@@ -18,7 +18,7 @@ borg.storage.PREV_REPLY_MESSAGE = {}
 BAALAJI_TG_USER_BOT = "🤦‍♂ Please wait....."
 TG_COMPANION_USER_BOT = "🤦‍♂ Please wait....."
 UNIBORG_USER_BOT_WARN_ZERO = "Hey you! seriously...🙄. Its Enough Now.I Am Blocking This Pm Temporarily.Now wait For My Master To Unblock You"
-UNIBORG_USER_BOT_NO_WARN = "ℋẹℒℒỔ 🙋‍♂ Welcome To My PM 😟.\nThis is an Automated Message From My Bot:- \n\nMy Master is Currently Busy and He Doesn't Approved Your PM yet. Please Wait For Him To Respond.ヽ(^o^)丿Don't Dare To Spam His PM.\nAs Far As I know My Master is Very Cool 😌. Most probably He Will Approve This Pm If You Aren't a Retard or Perv 😐"
+UNIBORG_USER_BOT_NO_WARN = "This is an Automated Message From My Bot:- \nMy Master is Currently Busy and she Doesn't Approved Your PM yet. Please Wait For Her To Respond. Most probably she Will Approve your Pm If You Aren't a Retard or Perv 😐"
 
 
 @borg.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))

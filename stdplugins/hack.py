@@ -48,7 +48,7 @@ async def _(event):
             "`Loading... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Loading... 84%\n█████████████████████▒▒▒▒ `",
             "`Loading... 100%\n█████████████████████████ `",
-            "`Targeted Telegram Account Hacked...\nMedia's and History downloaded to cd /sdcard/Telegram \nContact @mahshook_bot Within 24 Hours To Remove This Hack`"
+            "`Targeted Telegram Account Hacked...\nMedia's and History downloaded to cd /sdcard/Telegram \nContact @Elfidabot Within 24 Hours To Remove This Hack`"
         ]
 
         for i in animation_ttl:

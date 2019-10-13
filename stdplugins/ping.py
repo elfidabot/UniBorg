@@ -11,4 +11,4 @@ async def _(event):
     await event.edit("pinging............")
     end = datetime.now()
     ms = (end - start).microseconds / 1000
-    await event.edit("ya sar its working (^o^)丿\n U'r Pong is \n{} 👀".format(ms))
+    await event.edit("CALL ME CUTE AGAIN 🐣\nElse I will fuckin' cut you into \n{} pieces 🐥🔪".format(ms))

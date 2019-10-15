@@ -18,8 +18,7 @@ borg.storage.PREV_REPLY_MESSAGE = {}
 BAALAJI_TG_USER_BOT = "🤦‍♂ Please wait....."
 TG_COMPANION_USER_BOT = "🤦‍♂ Please wait....."
 UNIBORG_USER_BOT_WARN_ZERO = "Hey you! seriously...🙄. Its Enough Now.I Am Blocking This Pm Temporarily.Now wait For My Master To Unblock You"
-UNIBORG_USER_BOT_NO_WARN = "This is an Automated Message From My Bot:- \nMy Master is Currently Busy and she Doesn't Approved Your PM yet. Please Wait For Her To Respond. Most probably she Will Approve your Pm If You Aren't a Retard or Perv 😐"
-
+UNIBORG_USER_BOT_NO_WARN = "Ozoda: \n[Ꮢ(ʘɓʘ)ʛเɾℓ:](tg://user?id=987397072) \nHi there! You came to my PM, you will be blocked automatically after one more message😎. \n Behave like a human, wait for my response.😺 \nIn case I don't know you fuck off😾 or chat from Group (@english_chatting_club) \nIf you're my friend welcome friendo😌"
 
 @borg.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))
 async def monito_p_m_s(event):
